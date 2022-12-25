@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+nltk
+gensim
+requests
+scrapy
+black
